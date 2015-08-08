@@ -46,3 +46,12 @@ a{
 .col-md-4{
   background-color: #80A8A8;
 }
+
+
+
+
+
+.btn-block:hover {
+  font-size: 300%;
+  transition: all 0.5s ease;
+}
