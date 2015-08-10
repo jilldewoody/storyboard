@@ -1,5 +1,6 @@
 h1{
-  color:red;
+  color:black;
+  font-family:'Fjalla one', sans-serif;
 }
 .col-md-4{
   background-color:black;
@@ -25,12 +26,14 @@ h1{
   bottom: 150px;
   left: 800px;
   font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
 }
 .picture{
   position: absolute;
     right: 0px;
     top: 0px;
     z-index: -1;
+  
 }
 .level-text{
   font-family: 'Fjalla One', sans-serif;
@@ -47,11 +50,12 @@ a{
   background-color: #80A8A8;
 }
 
-
-
-
-
 .btn-block:hover {
   font-size: 300%;
-  transition: all 0.5s ease;
+  transition: all 0.5s ease; 
+  color: blue;
 }
+
+
+
+
